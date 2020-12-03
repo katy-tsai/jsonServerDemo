@@ -1,0 +1,5 @@
+module.exports = [
+    { "id": 1, "deviceName": "DVR-DP2-12", "udid": "UX2XL******0901lA1", "totalSpace": "2G", "freeSpace": "325M", "mac": "34:1B:57:30:04:CA", "displayName": "DVR-DP2-12", "groupId": "7E31CDF6C24D439733", "vender": "bbvendor", "userId": "A402C9BD97C74BD530" },
+    { "id": 2, "deviceName": "DVR-DP2-16", "udid": "UX6XL******0901lA1", "totalSpace": "2G", "freeSpace": "325M", "mac": "51:2A:57:30:04:AA", "displayName": "DVR-DP2-16", "groupId": "A5D4BE76492D4D893D", "vender": "bbvendor", "userId": "A402C9BD97C74BD530" },
+    { "id": 3, "deviceName": "DVR-DP2-22", "udid": "UX8XL******0901lA1", "totalSpace": "2G", "freeSpace": "400M", "mac": "24:2B:5720:04:AB", "displayName": "DVR-DP2-22", "groupId": "8D4B732148A84D163C", "vender": "bbvendor", "userId": "A402C9BD97C74BD530" },
+    { "id": 4, "deviceName": "DVR-DP2-10", "udid": "UX1XL******0901lA1", "totalSpace": "5G", "freeSpace": "500M", "mac": "54:2B:57:30:04:AB", "displayName": "DVR-DP2-10", "groupId": "4BA393190B0C48B930", "vender": "bbvendor", "userId": "A402C9BD97C74BD530" }]

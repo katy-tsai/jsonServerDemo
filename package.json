@@ -1,0 +1,13 @@
+{
+  "name": "vmsServer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "json-server": "^0.16.2"
+  },
+  "dependencies": {
+    "glob": "^7.1.6",
+    "lodash": "^4.17.20"
+  }
+}
